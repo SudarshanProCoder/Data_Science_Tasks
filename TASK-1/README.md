@@ -13,7 +13,7 @@ You can install the required libraries using pip:
 
 ```bash
 pip install pandas matplotlib openpyxl
-
+```
 
 ## Output
 ![Screenshot 2024-07-10 201336](https://github.com/SudarshanProCoder/Data_Science_Tasks/assets/67712314/90d5aaaf-2dbe-49b5-9e5c-31dfeee064af)
